@@ -1,0 +1,36 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+*.log
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+memory/
+docs/
+
+# Development scripts
+scripts/
+
+# Local configuration and build output
+.env
+.env.*
+!.env.example
+node_modules/
+target/
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
